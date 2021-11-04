@@ -1,0 +1,2 @@
+Cangkir yang terisi lebih dahulu adalah cangkir nomor 5 dan juga satu-satunya yang dapat diisi dengan kopi.
+Karena pipa yang menuju ke cangkir 4, 9, dan 7 tertutup sehingga tidak akan bisa diisi dengan kopi.
