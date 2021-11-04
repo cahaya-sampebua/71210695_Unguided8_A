@@ -1,0 +1,19 @@
+Untuk Hx:
+1. X.ADD_RIGHT		7. X.DIE
+2. X.DIE		8. X.DIE
+3. X.ADD_DOWN		9. X.ADD_UP	
+4. X.DIE		10. X.DIE		
+5. X.ADD_RIGHT		11. X.ADD_RIGHT
+6. X.ADD_RIGHT		12. X.DIE
+
+
+Untuk Hy:
+1. X.ADD_LEFT		5. X.ADD_LEFT
+2. X.DIE		6. X.ADD_LEFT
+3. X.ADD_UP		7. X.DIE
+4. X.DIE		8. X.DIE
+
+Keterangan untuk Hy:
+y tidak bisa sampai ke Hy karena:
+1) Arsiran orange tidak boleh dilewati atau dilalui
+2) Y dapat mengarsir hanya wilayah Hy
